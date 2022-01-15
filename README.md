@@ -7,5 +7,5 @@
 **[Linkedin](https://www.linkedin.com/in/andre-vinicius-a56366205/)** // **[Instagram](https://www.instagram.com/andr_vinic/)**
 
 ### Projetos
-- Esse é o projeto do meu TCC, o meu primeiro projeto em laravel **[projeto](https://github.com/andr-vini/IFORUM-TCC)**
+- Esse é o projeto do meu TCC, e também o meu primeiro projeto em laravel **[projeto](https://github.com/andr-vini/IFORUM-TCC)**
 - Esse projeto se trata de um CRUD simples **[projeto](https://github.com/andr-vini/Bloco_de_Notas)**

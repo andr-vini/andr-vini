@@ -6,4 +6,4 @@
 **[Linkedin](https://www.linkedin.com/in/andre-vinicius-a56366205/)** // **[Instagram](https://www.instagram.com/andr_vinic/)**
 
 ### Projetos
-- Esse é meu primeiro **[projeto](https://github.com/andr-vini/CRUD_list_tasks)**
+- Esse é meu primeiro, que se trata de um CRUD simples **[projeto](https://github.com/andr-vini/Bloco_de_Notas)**

@@ -8,4 +8,3 @@
 
 ### Projetos
 - Esse é o projeto do meu TCC, e também o meu primeiro **[projeto](https://github.com/andr-vini/IFORUM-TCC)** em laravel 
-- Esse **[projeto](https://github.com/andr-vini/Bloco_de_Notas)** se trata de um CRUD simples 

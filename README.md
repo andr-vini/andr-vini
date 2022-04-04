@@ -5,7 +5,7 @@
 - Formado no curso técnico em informática (2022) no IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte) - Campus Santa Cruz
 ### Onde me encontrar
 - Cursando graduação em ciências da computação na **[UNP](https://www.unp.br/)**
-**[Linkedin](https://www.linkedin.com/in/andre-vinicius-a56366205/)** // **[Instagram](https://www.instagram.com/andr_vinic/)**
+- Redes Sociais: **[Linkedin](https://www.linkedin.com/in/andre-vinicius-a56366205/)** // **[Instagram](https://www.instagram.com/andr_vinic/)**
 
 ### Projetos
 - Esse é o projeto do meu TCC, e também o meu primeiro **[projeto](https://github.com/andr-vini/IFORUM-TCC)** em laravel 

@@ -1,7 +1,9 @@
 ### Sobre mim
-- Eu me chamo André Vinicius e tenho 19 anos
-- Me interesso por programação WEB, mais especificamente na parte de Back-End
-- No momento estudo o framework laravel, juntamente com o SGBD MySQL e faço um curso na **[Udemy](https://www.udemy.com/)** de **[Laravel](https://www.udemy.com/course/curso-completo-do-desenvolvedor-laravel/)** com **[Vue.js](https://vuejs.org/)**
+- Eu me chamo André Vinicius e tenho 20 anos
+- Sou programador, atualmente com 8 meses de experiência
+- Trabalho com Laravel e MySQL, porém também faço amplo uso do JavaScript e do Jquery no front-end
+- Estou estudando a linguagem de programação Java e em breve passarei a estudar o framework Spring
+- Estou ampliando meus conhecimentos em front-end com o framework React
 - Formado no curso técnico em informática (2022) no IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte) - Campus Santa Cruz
 - Cursando graduação em ciências da computação na **[UNP](https://www.unp.br/)**
 

@@ -7,6 +7,11 @@
 - Formado no curso técnico em informática (2022) no IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte) - Campus Santa Cruz
 - Cursando graduação em ciências da computação na **[UNP](https://www.unp.br/)**
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernamecount_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
+
 ### Onde me encontrar
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/andre-vinicius-a56366205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andre-vinicius-a56366205" height="30" width="40" /></a>

@@ -1,6 +1,6 @@
 ### Sobre mim
 - Eu me chamo André Vinicius e tenho 22 anos
-- Sou programador, atualmente com 2 anos e 10 meses de experiência
+- Sou programador, atualmente com 3+ anos de experiência
 - Trabalho com Laravel e MySQL, porém também faço amplo uso do JavaScript e do Jquery no front-end
 - Estou ampliando meus conhecimentos em front-end com o framework React
 - Formado no curso técnico em informática (2022) no IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte) - Campus Santa Cruz
